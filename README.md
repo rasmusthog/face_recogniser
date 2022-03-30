@@ -7,3 +7,11 @@ Small hobby project to learn how to use face recognition, both using OpenCV to c
 ## 2. Goal
 
 The goal is to create a program that captures video from my webcam, automatically recognises my face (and maybe my eyes), and evaluates whether this is me (or maybe a friend or family member). 
+
+## 3. Issues
+
+- Calling ```cv2.CascadeClassifier()``` yields an error for OpenCV 4.X.
+
+## 4. Resources
+
+(Haar Cascades Explained)[https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d]
