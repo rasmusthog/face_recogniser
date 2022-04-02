@@ -1,0 +1,7 @@
+# System files
+
+.DS_Store
+
+# Data files
+
+data/
