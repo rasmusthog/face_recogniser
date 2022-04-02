@@ -16,4 +16,5 @@ The goal is to create a program that captures video from my webcam, automaticall
 
 ## 4. Resources
 
+(Face Recognition: Understanding LBPH Algorithm)[https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b]
 (Haar Cascades Explained)[https://medium.com/analytics-vidhya/haar-cascades-explained-38210e57970d]
